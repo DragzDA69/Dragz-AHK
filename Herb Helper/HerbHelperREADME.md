@@ -10,8 +10,8 @@
 ----
 
 ## Setup
-- Download <a href="https://github.com/DragzDA69/OSRS_AHK_Published/blob/main/Herb%20Helper/Herb%20Helper%202.1.exe" download>Herb Helper 2.1</a> program  
-- Download the <a href="https://github.com/DragzDA69/OSRS_AHK_Published/blob/main/Herb%20Helper/Herb%20Helper%20RL%20Profile.properties" doownload>Herb Helper RL Profile</a>  
+- Download <a href="https://github.com/DragzDA69/Dragz-AHK/blob/main/Herb%20Helper/Herb%20Helper%202.1.exe" download>Herb Helper 2.1</a> program  
+- Download the <a href="https://github.com/DragzDA69/Dragz-AHK/blob/main/Herb%20Helper/Herb%20Helper%20RL%20Profile.properties" doownload>Herb Helper RL Profile</a>  
   <img src="https://user-images.githubusercontent.com/92201744/236942734-7d5c5f5c-cd0d-4da1-8d30-816451848374.png"/>
 - Import the RuneLite profile  
   <img src="https://user-images.githubusercontent.com/92201744/236934719-2e883bfc-6272-4ba9-a2b8-c249f1823f63.png"/>  
