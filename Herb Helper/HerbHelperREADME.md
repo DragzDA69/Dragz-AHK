@@ -1,5 +1,5 @@
 ## Herb Helper
-#### Makes potions. That's it. Done. test
+#### Makes potions. That's it. Done.
 
 ----
 
