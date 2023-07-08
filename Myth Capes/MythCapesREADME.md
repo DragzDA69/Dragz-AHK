@@ -8,7 +8,7 @@
    *script will break if butler tries to manually collect pay*
 
 ## Setup
-- Download the latest version of [Myth Capes](https://drive.google.com/file/d/1zBDn2_jkYpaV8RfAwPRFEz3LvIMtel4I/view?usp=sharing)
+- Download the latest version of [Myth Capes](https://github.com/DragzDA69/Dragz-AHK/raw/main/Myth%20Capes/Myth%20Capes%201.2.exe)
 - Download the [Myth Capes RL Profile](https://drive.google.com/file/d/12GR5HG__jqqPUa61tMe5_HsXNjWwWd2u/view?usp=sharing)
 - Import the RuneLite profile
 <img src="https://github.com/DragzDA69/OSRS_AHK_Scripts/assets/92201744/229a1fcc-82cc-4162-a6e0-a610c8a94d17" alt="img1" width="250"/>
