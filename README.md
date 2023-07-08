@@ -7,3 +7,6 @@ Makes potions. That's it.
 
 > [Myth Capes](https://github.com/DragzDA69/Dragz-AHK/blob/main/Myth%20Capes/MythCapesREADME.md)
 Used to build Mythical Capes in your house.
+
+> [Dart Fletcher](https://github.com/DragzDA69/Dragz-AHK/blob/main/Dart%20Fletcher/DartFletcherREADME.md) -
+Used to make darts quickly
